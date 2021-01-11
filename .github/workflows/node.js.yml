@@ -32,8 +32,9 @@ jobs:
     - run: npm run test:nolint
     - run: npm run test:coveralls
     
-    - name: Coveralls
-      uses: coverallsapp/github-action@master
-      with:
-        github-token: ${{ secrets.GITHUB_TOKEN }}
+    # Uncomment when we have some code to test.
+    #- name: Coveralls
+    #  uses: coverallsapp/github-action@master
+    #  with:
+    #    github-token: ${{ secrets.GITHUB_TOKEN }}
 

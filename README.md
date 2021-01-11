@@ -21,13 +21,8 @@
     <img src='https://coveralls.io/repos/github/purpleteam-labs/purpleteam-server-scanner/badge.svg?branch=main' alt='test coverage'>
   </a>
 
-  <a href="https://snyk.io/test/github/purpleteam-labs/purpleteam?targetFile=package.json" title="known vulnerabilities">
+  <a href="https://snyk.io/test/github/purpleteam-labs/purpleteam-server-scanner?targetFile=package.json" title="known vulnerabilities">
     <img src="https://snyk.io/test/github/purpleteam-labs/purpleteam/badge.svg?targetFile=package.json" alt="known vulnerabilities"/>
   </a>
   <br/><br/>
-  <a href="https://purpleteam-labs.com" title="purpleteam">
-    <img width=900px src="https://user-images.githubusercontent.com/2862029/104117134-a93b7780-5383-11eb-8270-bfc46f310a24.png" alt="purpleteam test run">
-  </a>
 
-<br/><br/>
-</div>
