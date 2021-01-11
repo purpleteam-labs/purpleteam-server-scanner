@@ -22,7 +22,7 @@
   </a>
 
   <a href="https://snyk.io/test/github/purpleteam-labs/purpleteam-server-scanner?targetFile=package.json" title="known vulnerabilities">
-    <img src="https://snyk.io/test/github/purpleteam-labs/purpleteam/badge.svg?targetFile=package.json" alt="known vulnerabilities"/>
+    <img src="https://snyk.io/test/github/purpleteam-labs/purpleteam-server-scanner/badge.svg?targetFile=package.json" alt="known vulnerabilities"/>
   </a>
   <br/><br/>
 
