@@ -3,8 +3,7 @@
   "version": "",
   "description": "Server scanning component of purpleteam -- security regression testing SaaS",
   "main": "index.js",
-  "bin": {
-  },
+  "bin": {},
   "scripts": {
     "lint": "eslint .",
     "deps": "npm-check",
