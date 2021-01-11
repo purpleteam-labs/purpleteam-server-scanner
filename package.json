@@ -57,7 +57,7 @@
   "author": "Kim Carter",
   "license": "AGPL-3.0-only",
   "bugs": {
-    "url": "https://github.com/purpleteam-labs/purpleteam-server-scanner/issues"
+    "url": "https://github.com/purpleteam-labs/purpleteam/issues"
   },
   "homepage": "https://purpleteam-labs.com",
   "dependencies": {},
