@@ -69,5 +69,6 @@
     "eslint-plugin-import": "^2.22.1",
     "npm-check": "^5.9.2",
     "pre-commit": "^1.2.2"
-  }
+  },
+  "files": []
 }
